@@ -1,0 +1,45 @@
+.Main {
+  font-family: cursive;
+  background-color: #bcdee8;
+}
+#Home{
+
+  font-style: italic;
+}
+
+.footer {
+  padding-top: 15px;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #07eda0;
+   color: #252a2e;
+   text-align: center;
+   text-decoration-color: red;
+}
+.header {
+
+}
+
+.list {
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+}
+
+#foot {
+  text-color: #ffadb0;
+  text-align: center;
+  text-decoration: inherit;
+  display: block;
+}
+body {background-color: yellow;}
+#footer {
+  background-color: #03fcf0;
+  font-color:#bd090f;
+  font-style: cursive;
+}
+
+nav{
+  padding: 10px;
+  background-color: MediumSeaGreen;}
